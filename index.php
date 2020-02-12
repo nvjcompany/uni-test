@@ -88,7 +88,7 @@ http://www.tooplate.com/view/2038-carpet
 			
 			<div id="mid_left">
 				<div id="mid_title">
-					Lorem Ipsum Dolor Sit Amet	
+					Heroku power!
 				</div>
 				<p>Duis lacinia leo porttitor sem venenatis non fermentum urna pretium. Pellentesque interdum iaculis lectus, non fermentum diam semper vitae. Nullam in imperdiet massa. Fusce mattis odio id nulla iaculis ut elementum lacus pretium. Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>XHTML</strong></a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a>.</p>
 				<div id="learn_more"><a href="#">Learn More</a></div>
