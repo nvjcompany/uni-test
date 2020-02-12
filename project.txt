@@ -2,3 +2,4 @@ Version 1.0
 Subscriptions Logic
 Login/Register Logic
 New Sub Logic
+New Sub Logic Fixes
